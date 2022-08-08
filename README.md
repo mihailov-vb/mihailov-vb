@@ -10,5 +10,3 @@
 
 [![codewars](https://www.codewars.com/users/duker61/badges/large)](https://www.codewars.com/users/duker61)<br>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mihailov-vb&theme=dark)](https://leetcode.com/mihailov-vb/)
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
