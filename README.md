@@ -7,6 +7,7 @@
 <h3 align="left">I work for a construction company. Office.</h3>
 <h3 align="left">I am currently learning the Java programming language. I'm taking a course JavaRush + Stepik + self-education.</h3>
 <h3 align="left">I am at the very beginning of my journey in the IT field, although I cannot say the same about my life path.</h3>
+<font color="#00F7BFFF">"Нубекс"</font>
 
 [![codewars](https://www.codewars.com/users/duker61/badges/large)](https://www.codewars.com/users/duker61)<br>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mihailov-vb&theme=dark)](https://leetcode.com/mihailov-vb/)
