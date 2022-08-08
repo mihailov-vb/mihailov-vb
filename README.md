@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/mihailov-vb" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am learning Java language.🇺</h3>
+<h3 align="center">I am learning Java language</h3>
 
-Hello!
+<h3 align="left">Hello!</h3>
 My name is Vladimir. I am 31 years old and I really want to move into the IT field.
 I work for a construction company. Office.
 
