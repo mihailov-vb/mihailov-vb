@@ -9,3 +9,5 @@ I work for a construction company. Office.
 I am currently learning the Java programming language. I'm taking a course JavaRush + Stepik + self-education.
 
 I am at the very beginning of my journey in the IT field, although I cannot say the same about my life path.
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
