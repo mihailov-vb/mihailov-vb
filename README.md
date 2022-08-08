@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/mihailov-vb" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am learning Java language</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&lines=I+am+learning+Java+language" alt="Typing SVG" /></a>
 
 <h3 align="left">Hello!</h3>
 <h3 align="left">My name is Vladimir. I am 31 years old and I really want to move into the IT field.</h3>
