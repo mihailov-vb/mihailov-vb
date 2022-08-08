@@ -10,5 +10,5 @@ I am currently learning the Java programming language. I'm taking a course JavaR
 
 I am at the very beginning of my journey in the IT field, although I cannot say the same about my life path.
 
-[![codewars](https://www.codewars.com/users/duker61/badges/small)](https://www.codewars.com/users/duker61)<br>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mihailov-vb&theme=dark)](https://leetcode.com/mihailov-vb/)
+<h1 align="center">[![codewars](https://www.codewars.com/users/duker61/badges/small)](https://www.codewars.com/users/duker61)<br>
+<h1 align="center">[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mihailov-vb&theme=dark)](https://leetcode.com/mihailov-vb/)
