@@ -10,4 +10,4 @@ I am currently learning the Java programming language. I'm taking a course JavaR
 
 I am at the very beginning of my journey in the IT field, although I cannot say the same about my life path.
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/duker61/badges/large)](https://www.codewars.com/users/username)
