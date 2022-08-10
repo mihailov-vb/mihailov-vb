@@ -8,5 +8,5 @@
 <h3 align="left">I am at the very beginning of my journey in the IT field, although I cannot say the same about my life path.</h3>
 
 
-[![codewars](https://www.codewars.com/users/Duker61/badges/large)](https://www.codewars.com/users/duker61)<br>
+[![codewars](https://www.codewars.com/users/Duker61/badges/large)](https://www.codewars.com/users/Duker61)<br>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mihailov-vb&theme=dark)](https://leetcode.com/mihailov-vb/)
